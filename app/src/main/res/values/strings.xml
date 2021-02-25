@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+    <string name="Title">Music Player</string>
+    <string name="totalTime">Total Time</string>
+    <string name="PlayerName">Player Name</string>
+    <string name="CurretnTime">Current Time</string>
+    <string name="contact">Contact With us: ashehata277@gmail.com</string>
+    <string name="splashtext">Music Player</string>
+</resources>
